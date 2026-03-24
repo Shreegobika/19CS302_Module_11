@@ -4,7 +4,7 @@
 To write a C program to find a square of number using function with arguments without return type.
 
 ## Algorithm
-1.Start
+1. Start
 
 2.Define a function findSquare(num) that takes an integer argument.
 
